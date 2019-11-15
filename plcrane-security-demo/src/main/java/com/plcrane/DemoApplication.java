@@ -39,7 +39,7 @@ public class DemoApplication {
 
     @GetMapping("hello")
     public String hello(){
-        return "你好 spring security_____";
+        return "你好 spring security__2__";
     }
 
 }
