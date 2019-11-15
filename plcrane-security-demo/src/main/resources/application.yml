@@ -1,0 +1,17 @@
+security:
+  basic:
+    enabled: false
+
+spring:
+  datasource:
+    url: jdbc:mysql://47.106.244.254:3306/imooc-demo?useUnicode=yes&characterEncoding=UTF-8&useSSL=false
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: Gzhangming_1
+  session:
+    store-type: none
+
+server:
+  port: 8060
+
+
