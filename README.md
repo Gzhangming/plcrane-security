@@ -22,4 +22,5 @@
     
     ## **开发环境**
         JDK 1.8
-        Redis 3.2及以上
+        Redis 3.2及以上  redis 命令 redis-server
+        

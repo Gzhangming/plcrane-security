@@ -17,7 +17,7 @@
             <version>${plcrane.security.version}</version>
         </dependency>
 
-        <!--test测试-->
+        <!--测试用例  spring boot 测试-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
